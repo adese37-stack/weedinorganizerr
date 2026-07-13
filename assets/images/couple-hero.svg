@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eadbc4"/><stop offset="1" stop-color="#8f6d3d"/></linearGradient>
+      <radialGradient id="r"><stop stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#g)"/>
+    <circle cx="240.0" cy="270.0" r="216.0" fill="url(#r)"/>
+    <circle cx="960.0" cy="1170.0" r="300.0" fill="url(#r)"/>
+    <g fill="none" stroke="#f8eddc" stroke-opacity=".72" stroke-width="3">
+      <ellipse cx="600.0" cy="645.0" rx="228.0" ry="285.0"/>
+      <path d="M 324.0 1080.0 Q 600.0 720.0 876.0 1080.0"/>
+    </g>
+    <text x="50%" y="84%" text-anchor="middle" fill="#fff9ef" font-size="75" font-family="Georgia">Aruna & Bima</text>
+    <text x="50%" y="89%" text-anchor="middle" fill="#fff9ef" opacity=".8" font-size="34" font-family="Arial">Ganti dengan foto utama pasangan</text>
+    </svg>
